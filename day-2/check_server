@@ -1,0 +1,4 @@
+def check_server():
+    print("checking server helath")
+    print("server is helathy")
+check_server()

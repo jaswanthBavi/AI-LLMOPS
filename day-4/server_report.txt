@@ -1,0 +1,5 @@
+Server name : web-server
+CPU Usage : 95 
+Memory Usage : 92
+Status : Healthy
+Disk_storage : 70
