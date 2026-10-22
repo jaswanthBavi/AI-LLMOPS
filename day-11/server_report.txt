@@ -1,0 +1,3 @@
+Memory_status: Warning
+Disk_usage: Critical
+Overall_status:Critical

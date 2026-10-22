@@ -1,0 +1,11 @@
+System Health Report
+Date & Time: 2026-10-15 08:13:21.197413
+Memory usage: 40.79%
+Memory_Status: Healthy
+Usage of Disk: 97%
+Status: Critical
+calculate Overall Status
+===========================
+Overall_status: Critical
+memory command succeeded
+disk information successfully

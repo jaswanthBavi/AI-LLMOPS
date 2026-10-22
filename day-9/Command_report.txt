@@ -1,0 +1,11 @@
+Server Command Report
+Command: free -m 
+Status: Success
+Return value:0
+Memory_details
+               total        used        free      shared  buff/cache   available
+Mem:            1738         812         556          15         536         926
+Swap:           2047           0        2047
+
+
+command succeeded
